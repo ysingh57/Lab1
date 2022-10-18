@@ -8,3 +8,8 @@ return f"Your present age is (age) years"
 
 
 print(finding_age())
+
+def hi_everyone():
+  print('Hey Everyone')
+  
+hi_everyone()  
